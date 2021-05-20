@@ -2,491 +2,530 @@
   {
     "name": "Kairon Labs",
     "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
-    "category": "liquidity",
+    "categories": ["liquidity"],
     "link": "https://kaironlabs.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "kairon-labs", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Abra",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "abra", "width": "260", "height": "70" }
+  },
+  {
+    "name": "Guarda",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "guarda", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Travala",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "travala", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Bidao",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "bidao", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Amazon Web Services",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "aws", "width": "121", "height": "70" }
+  },
+  {
+    "name": "Google Cloud",
+    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "categories": ["liquidity"],
+    "link": "https://kaironlabs.com/",
+    "image": { "name": "google-cloud", "width": "70", "height": "70" }
   },
   {
     "name": "Vleppo",
     "description": "Vleppo’s mission is to provide everyday business people ranging from freelancers through to large companies with access to effective and affordable solutions, leveraging blockchain technology.",
-    "category": "development",
+    "categories": ["development"],
     "link": "https://vleppo.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
-    "name": "Leeway Hertz",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "development",
+    "name": "LeewayHertz",
+    "description": "LeewayHertz is a a software development company for startups and enterprises that builds innovative solutions using emerging technologies.",
+    "categories": ["development"],
     "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "leewayhertz", "width": "70", "height": "70" }
   },
   {
     "name": "Chainzilla",
     "description": "ChainZilla develops mobile apps and blockchains and offers blockchain consulting services for businesses.",
-    "category": "development",
+    "categories": ["development"],
     "link": "https://chainzilla.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "chainzilla", "width": "70", "height": "70" }
   },
   {
     "name": "Binance Smart Chain",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "defi",
+    "categories": ["defi"],
     "link": "https://www.binance.org/en/smartChain",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "binance-Smart-Chain", "width": "70", "height": "70" }
   },
   {
     "name": "GLEECDEX",
     "description": "Built for the Gleec Coin (GLEEC) project, GleecDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "category": "dex",
+    "categories": ["dex"],
     "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "gleec", "width": "70", "height": "70" }
   },
   {
     "name": "RAVENDEX",
     "description": "Built for the Ravencoin (RVN) project, RavenDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "category": "dex",
+    "categories": ["dex"],
     "link": "https://ravencoin.org/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "DOGEDEX",
     "description": "Built for the Dogecoin (DOGE) project, DogeDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "category": "dex",
+    "categories": ["dex"],
     "link": "https://dogedex.xyz/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Binance",
     "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "http://binance.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "binance", "width": "512", "height": "512" }
   },
   {
     "name": "AtomicDEX",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Bittrex",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://bittrex.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "bittrex", "width": "388", "height": "70" }
   },
   {
     "name": "Upbit",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://upbit.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "upbit", "width": "70", "height": "70" }
   },
   {
     "name": "Bithumb",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://www.bithumb.pro/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "bithumb", "width": "70", "height": "70" }
   },
   {
     "name": "Huobi",
     "description": "Huobi Group is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by liquidity and real-trading volume. Trusted by users in over 170 countries, the Huobi platform is dedicated to improving financial freedom and inclusive access for all users.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://www.huobi.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "huobi", "width": "70", "height": "70" }
   },
   {
     "name": "CoinDCX",
     "description": "CoinDCX is reputed to be world's most versatile and India's most trustworthy cryptocurrency exchange. CoinDCX's massive liquidity, powerful wallet, and impenetrable security make the trading experience extremely fast, reliable, and effortless.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://coindcx.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "CoinDCX", "width": "70", "height": "70" }
   },
   {
     "name": "Bitvavo",
     "description": "Bitvavo is the largest and most competitively priced exchange in the Netherlands where you can easily and safely buy, sell, deposit and withdraw digital currency. ",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://bitvavo.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "bitvavo", "width": "70", "height": "70" }
   },
   {
     "name": "CoinEX",
     "description": "As a global and professional cryptocurrency exchange service provider, CoinEx was founded in December 2017 with Bitmain-led investment. It is a subsidiary brand of the ViaBTC Group, which owns the fifth largest BTC mining pool and is also the largest BCH mining pool in the world.CoinEx supports spot, perpetual contract, and other derivatives trading. Its service reaches global users in nearly 100 countries/regions with various languages available, such as Chinese, English, Korean and Russian.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://www.coinex.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "coinex", "width": "70", "height": "70" }
   },
   {
     "name": "HitBTC",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Bitbns",
     "description": "Founded by 3 IIT kgp graduates bitbns now has 80 digital assets from which users can choose from to trade. Users can margin trade with upto 4x leverage while trading. Bitbns also offers interest bearing product on digital assets with fixed income plans and also has a SIP on bitcoin with bitdroplet.com and has built tools for finding arbitrages between cryptos.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://bitbns.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "bitbns", "width": "70", "height": "70" }
   },
   {
     "name": "Liquid",
     "description": "Liquid is a leading global fintech company founded in 2014, with offices in Japan, Singapore, and Vietnam. Liquid was the first exchange licensed by the Japan Financial Services Agency in 2017, and in 2019 the exchange's yearly trading volume exceeded 60bn USD.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://www.liquid.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "liquid", "width": "70", "height": "70" }
   },
   {
     "name": "Huobi Korea",
     "description": "Established in 2018, Huobi Korea is an extension of Huobi Group, one of the world's leading blockchain company. Huobi Korea is dedicated to provide reliable and secure services as an exchange, with plans to develop a more comprehensive blockchain ecosystem, including a blockchain research institute, portal businesses and financial services. ",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://www.huobi.co.kr/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "huobi-korea", "width": "244", "height": "244" }
   },
   {
     "name": "ShapeShift",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://shapeshift.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "shapeshift", "width": "70", "height": "70" }
   },
   {
     "name": "Changelly",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "exchange",
+    "categories": ["exchange"],
     "link": "https://changelly.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "changelly", "width": "70", "height": "70" }
   },
   {
     "name": "KMDExplorer",
     "description": "KMDExplorer is a block explorer for the KMD blockchain.",
-    "category": "explorer",
+    "categories": ["explorer"],
     "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Komodod",
     "description": "Komodod is a block explorer for the KMD blockchain.",
-    "category": "explorer",
+    "categories": ["explorer"],
     "link": "https://komodod.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "TokenView",
     "description": "Tokenview Blockchain Explorer is a multi-crypto explorer to search all datas of Bitcoin, Ethereum USDT ERC20, Tron and more.",
-    "category": "explorer",
+    "categories": ["explorer"],
     "link": "https://kmd.tokenview.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "tokenview", "width": "70", "height": "70" }
   },
   {
     "name": "AtomicExplorer",
     "description": "AtomicExplorer is a block explorer for KMD and Komodo Smart Chains (KSCs).",
-    "category": "explorer",
+    "categories": ["explorer"],
     "link": "https://www.atomicexplorer.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Dexplorer",
     "description": "Dexplorer is an order book and stats explorer for Komodo AtomicDEX API.",
-    "category": "explorer",
+    "categories": ["explorer"],
     "link": "https://dexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Amazon",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "infrastructure",
+    "categories": ["infrastructure"],
     "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Google",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "infrastructure",
+    "categories": ["infrastructure"],
     "link": "https://komodod.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Tokel",
     "description": "Tokel Platform is Komodo ecosystem's token platform. It consists of TOKEL coin wallet, Token wallet, NFT marketplace, and DEX.",
-    "category": "nfts",
+    "categories": ["nfts"],
     "link": "https://tokel.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "tokel", "width": "226", "height": "70" }
   },
   {
     "name": "Band Protocol",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "oracle",
+    "categories": ["oracle"],
     "link": "https://bandprotocol.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "band-protocol", "width": "70", "height": "70" }
   },
   {
     "name": "ChainLink",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "oracle",
+    "categories": ["oracle"],
     "link": "https://komodod.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "SPL Foundation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "grants",
+    "categories": ["grants"],
     "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "FIO Protocol",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "grants",
+    "categories": ["grants"],
     "link": "https://komodod.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "SFUSD",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "stablecoin",
+    "categories": ["stablecoin"],
     "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "MCL",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "stablecoin",
+    "categories": ["stablecoin"],
     "link": "https://komodod.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "TokenView",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "staking",
-    "link": "https://kmd.tokenview.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Hardware Wallet Tool",
     "description": "Manage your coins from a hardware wallet device, Trezor and Ledger supported.",
-    "category": "tools",
+    "categories": ["tools"],
     "link": "https://pbca26.github.io/hw-kmd-wallet/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "DEX Liquidity",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "tools",
+    "categories": ["tools"],
     "link": "https://dexstats.info/liquidity.php",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "AtomicDEX",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Coinomi",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://www.coinomi.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "coinomi", "width": "70", "height": "70" }
   },
   {
     "name": "Coincollect",
     "description": "CoinCollect is a mobile non-custodial wallet with exchanging capabilities.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://coincollect.cc/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "coincollect", "width": "70", "height": "70" }
   },
   {
     "name": "Ledger",
     "description": "Ledger develops hardware wallet technology that provides the highest level of security for crypto assets. Ledger products combine a Secure Element and a proprietary OS designed specifically to protect crypto assets.Ledger hardware wallets empower users with the ownership and control of their private keys.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://www.ledger.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "ledger", "width": "70", "height": "70" }
   },
   {
     "name": "Trezor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://trezor.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Verus Pay",
     "description": "This plugin extends WooCommerce, adding the ability to accept cryptocurrency payments in Verus Coin (VRSC) using either an on-store wallet daemon (best for VPS or dedicated hosting stores) or manually configured VRSC addresses (best for shared hosting stores).",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://github.com/VerusCoin/VerusPay",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "verus", "width": "70", "height": "70" }
   },
   {
     "name": "Komodo Ocean QT Wallet",
     "description": "OceanQT is a native wallet for storing, sending and receiving Komodo and Komodo asset-chain funds, developed by ip-gpu and Komodo team member Decker.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://github.com/DeckerSU/KomodoOcean/releases",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Zelcore",
     "description": "Zelcore is a fully-featured digital asset wallet for everyone. Store and manage over 275 cryptocurrencies and assets, including up to 12 individual wallet addresses for each.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://runonflux.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Atomic Wallet",
     "description": "Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.",
-    "category": "wallet",
+    "categories": ["wallet"],
     "link": "https://atomicwallet.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "CoinFlip",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "atm",
+    "categories": ["atm"],
     "link": "https://www.coinflip.tech/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "coinflip", "width": "70", "height": "70" }
   },
   {
     "name": "ARRR",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://pirate.black/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "pirate", "width": "70", "height": "70" }
   },
   {
     "name": "VERUS",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://verus.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "verus", "width": "70", "height": "70" }
   },
   {
     "name": "MCL",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://kmd.tokenview.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "SFUSD",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://www.atomicexplorer.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "SMTF",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://dexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "THC",
     "description": "Launched in 2014, the HempCoin (THC) was built on the source code of Komodo (KMD) for the Hemp Industry. The vision for THC is to help facilitate secure transactional relationships between farmers, distributors, and consumers.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://hempcoin.org/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "hempcoin", "width": "70", "height": "70" }
   },
   {
     "name": "GLEEC",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "smartChains",
+    "categories": ["smartChains"],
     "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "gleec", "width": "70", "height": "70" }
   },
   {
     "name": "CHIPS",
     "description": "On the CHIPS blockchain, users play Pangea Poker - a decentralized, trustless poker game.",
-    "category": "gaming",
+    "categories": ["gaming"],
     "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "chips", "width": "70", "height": "70" }
   },
   {
     "name": "CoinPayments",
-    "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, while supporting more than 2,000 coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
-    "category": "payment",
+    "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, while supporting more than 2,0000000000000000 coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
+    "categories": ["payment"],
     "link": "https://www.coinpayments.net/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "coinpayments", "width": "70", "height": "70" }
   },
   {
     "name": "NOWPayments",
     "description": "NOWPayments is a noncustodial crypto payments service that enables businesses to accept instant online payments in 50+ cryptocurrencies, now including OKB. The platform also supports automatic coin conversion, enabling merchants to accept any cryptocurrency of their choice and receive instant payment notifications when they do.",
-    "category": "payment",
+    "categories": ["payment"],
     "link": "https://nowpayments.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "nowpayments", "width": "70", "height": "70" }
   },
   {
     "name": "CryptocurrencyCheckout",
     "description": "Cryptocurrency Checkout is a non-custodial payment gateway providing plugins that make accepting multiple cryptocurrencies for products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
-    "category": "payment",
+    "categories": ["payment"],
     "link": "https://cryptocurrencycheckout.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": {
+      "name": "cryptocurrency-checkout",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Bidali",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "payment",
+    "categories": ["payment"],
     "link": "https://www.bidali.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "bidali", "width": "130", "height": "35" }
   },
   {
     "name": "Playhub Casino",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "casino",
-    "link": "https://gleec.com/",
+    "categories": ["merchants"],
+    "link": "https://cryptwerk.com/pay-with/kmd/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "WPSec",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "FlokiNet",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Snel",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "The Bitcoin Wardrobe",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "MonsterMegs",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "HostMeNow",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "category": "merchants",
+    "categories": ["merchants"],
     "link": "https://gleec.com/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "VerusID",
     "description": "The first self-sovereign, decentralized identities on the blockchain of its kind. A VerusID is a blockchain address that can hold funds and stake Verus. Future proof and packed with advanced capabilities. In this permissionless system anyone can create a VerusID and have complete ownership.",
-    "category": "defi",
+    "categories": ["defi"],
     "link": "https://verus.io/technology/verusID",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "verus", "width": "70", "height": "70" }
   }
 ]
