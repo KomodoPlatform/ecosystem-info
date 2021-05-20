@@ -102,7 +102,7 @@
     "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
     "categories": ["exchange"],
     "link": "http://binance.com/",
-    "image": { "name": "binance", "width": "512", "height": "512" }
+    "image": { "name": "binance", "width": "70", "height": "70" }
   },
   {
     "name": "AtomicDEX",
@@ -186,7 +186,7 @@
     "description": "Established in 2018, Huobi Korea is an extension of Huobi Group, one of the world's leading blockchain company. Huobi Korea is dedicated to provide reliable and secure services as an exchange, with plans to develop a more comprehensive blockchain ecosystem, including a blockchain research institute, portal businesses and financial services. ",
     "categories": ["exchange"],
     "link": "https://www.huobi.co.kr/",
-    "image": { "name": "huobi-korea", "width": "244", "height": "244" }
+    "image": { "name": "huobi-korea", "width": "70", "height": "70" }
   },
   {
     "name": "ShapeShift",
@@ -470,7 +470,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "categories": ["payment"],
     "link": "https://www.bidali.com/",
-    "image": { "name": "bidali", "width": "130", "height": "35" }
+    "image": { "name": "bidali", "width": "70", "height": "70" }
   },
   {
     "name": "Playhub Casino",
