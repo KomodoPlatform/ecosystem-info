@@ -8,44 +8,44 @@
   },
   {
     "name": "Abra",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Abra empowers users in more than 150 countries to invest in hundreds of cryptocurrencies via a single app while giving users the freedom to buy, sell, hold, exchange and send them anywhere, anytime.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://www.abra.com/",
     "image": { "name": "abra", "width": "260", "height": "70" }
   },
   {
     "name": "Guarda",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Guarda Wallet is non-custodial cryptocurrency storage, that supports the most popular coins and their tokens including BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://guarda.com/",
     "image": { "name": "guarda", "width": "70", "height": "70" }
   },
   {
     "name": "Travala",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Founded in 2017, Travala.com is the leading cryptocurrency-friendly travel booking service with 3,000,000 travel products worldwide, including stays, flights and activities. Backed by industry-giant Binance, Travala.com is a champion of cryptocurrency adoption, accepting over 40 leading cryptocurrencies in addition to traditional payment methods. AVA bolsters the Travala.com value proposition.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://www.travala.com/",
     "image": { "name": "travala", "width": "70", "height": "70" }
   },
   {
     "name": "Bidao",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Bidao is building a decentralized finance (DeFi) and trustless stablecoin system to create a more open, borderless, transparent world through financial services. A decentralized stablecoin system creates the opportunity for an open financial system, where anyone willing to provide collateral can generate Bidao's stablecoin.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://bidaochain.org/",
     "image": { "name": "bidao", "width": "70", "height": "70" }
   },
   {
     "name": "Amazon Web Services",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://partners.amazonaws.com/partners/0010L00001sCXagQAG/Komodo%20Platform",
     "image": { "name": "aws", "width": "121", "height": "70" }
   },
   {
     "name": "Google Cloud",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
+    "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
     "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
+    "link": "https://cloud.google.com/partners",
     "image": { "name": "google-cloud", "width": "70", "height": "70" }
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "name": "Binance Smart Chain",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
     "categories": ["defi"],
     "link": "https://www.binance.org/en/smartChain",
     "image": { "name": "binance-Smart-Chain", "width": "70", "height": "70" }
@@ -113,21 +113,21 @@
   },
   {
     "name": "Bittrex",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Founded in 2014 by three cybersecurity engineers, Bittrex is the premier U.S.-based blockchain platform, providing lightning-fast trade execution, dependable digital wallets and industry-leading security practices. Bittrex's mission is to help advance the blockchain industry by fostering innovation, incubating new and emerging technology, and driving transformative change.",
     "categories": ["exchange"],
     "link": "https://bittrex.com/",
     "image": { "name": "bittrex", "width": "388", "height": "70" }
   },
   {
     "name": "Upbit",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Upbit, launched by Dunamu Inc. in 2017, is the largest digital asset exchange in South Korea. Equipped with world-class technology, regulatory expertise, and operational know-how, Upbit currently operates exchanges in South Korea, Singapore, and Indonesia.",
     "categories": ["exchange"],
     "link": "https://upbit.com/",
     "image": { "name": "upbit", "width": "70", "height": "70" }
   },
   {
     "name": "Bithumb",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Launched by BGH One Limited in 2019, Bithumb Global is a decentralized digital asset trading platform providing world-class fiat and cryptocurrency trading services to users worldwide. Part of the Bithumb family, one of the most popular cryptocurrency trading platforms in South Korea, and backed by more than half a million community members, Bithumb Global enables each global user to trade, participate or contribute in the digital assets ecosystem.",
     "categories": ["exchange"],
     "link": "https://www.bithumb.pro/",
     "image": { "name": "bithumb", "width": "70", "height": "70" }
@@ -190,14 +190,14 @@
   },
   {
     "name": "ShapeShift",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Since 2014, ShapeShift has been pioneering self-custody for digital asset trading. The company's web and mobile platforms allow users around the world to safely buy, hold, trade and interact with digital asset platforms such as Bitcoin and Ethereum.",
     "categories": ["exchange"],
     "link": "https://shapeshift.com/",
     "image": { "name": "shapeshift", "width": "70", "height": "70" }
   },
   {
     "name": "Changelly",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Changelly is an instant cryptocurrency exchange that allows you to exchange crypto fast and buy it with a bank card. The service provides the best crypto-to-crypto rates and supports over 140 cryptocurrencies available for exchange.",
     "categories": ["exchange"],
     "link": "https://changelly.com/",
     "image": { "name": "changelly", "width": "70", "height": "70" }
@@ -235,21 +235,21 @@
     "description": "Dexplorer is an order book and stats explorer for Komodo AtomicDEX API.",
     "categories": ["explorer"],
     "link": "https://dexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "dexplorer", "width": "130", "height": "35" }
   },
   {
     "name": "Amazon",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
     "categories": ["infrastructure"],
     "link": "https://kmdexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "amazon", "width": "130", "height": "35" }
   },
   {
     "name": "Google",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
     "categories": ["infrastructure"],
     "link": "https://komodod.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "google", "width": "130", "height": "35" }
   },
   {
     "name": "Tokel",
@@ -260,7 +260,7 @@
   },
   {
     "name": "Band Protocol",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts. Blockchains are great at immutable storage and deterministic, verifiable computations - however, they cannot securely access data available outside the blockchain networks. Band Protocol enables smart contract applications such as DeFi, prediction markets, and games to be built on-chain without relying on the single point of failure of a centralized oracle.",
     "categories": ["oracle"],
     "link": "https://bandprotocol.com/",
     "image": { "name": "band-protocol", "width": "70", "height": "70" }
@@ -295,9 +295,9 @@
   },
   {
     "name": "MCL",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
     "categories": ["stablecoin"],
-    "link": "https://komodod.com/",
+    "link": "https://marmara.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
@@ -309,7 +309,7 @@
   },
   {
     "name": "DEX Liquidity",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Track the liquidity of Komodo AtomicDEX API shared order books.",
     "categories": ["tools"],
     "link": "https://dexstats.info/liquidity.php",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
@@ -323,7 +323,7 @@
   },
   {
     "name": "Coinomi",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Coinomi is a security-first, multi-chain wallet for both mobile & desktop that provides native support and true ownership for more than 125 blockchains (the biggest number in the industry for non-custodial wallets) and thousands of tokens.",
     "categories": ["wallet"],
     "link": "https://www.coinomi.com/",
     "image": { "name": "coinomi", "width": "70", "height": "70" }
@@ -379,21 +379,21 @@
   },
   {
     "name": "CoinFlip",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "CoinFlip, the world’s leading bitcoin ATM operator,makes it so flippin’ easy to buy and sell bitcoin via cash, card, or bank transfer.",
     "categories": ["atm"],
     "link": "https://www.coinflip.tech/",
     "image": { "name": "coinflip", "width": "70", "height": "70" }
   },
   {
     "name": "ARRR",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses ZK-Snarks to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
     "categories": ["smartChains"],
     "link": "https://pirate.black/",
     "image": { "name": "pirate", "width": "70", "height": "70" }
   },
   {
     "name": "VERUS",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Verus Coin is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
     "categories": ["smartChains"],
     "link": "https://verus.io/",
     "image": { "name": "verus", "width": "70", "height": "70" }
@@ -428,7 +428,7 @@
   },
   {
     "name": "GLEEC",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Gleec is a digital ecosystem powered by blockchain technology. The native coin, GLEEC, can be used for a range of services and products. The project is focused on providing fluid user experiences, real-world use and security. Now, the Gleec ecosystem is steadily expanding, with an emphasis on boosting utility for GLEEC.The ecosystem now offers solutions in crypto and finance with Gleec Card, a Top Up Visa Card that makes possible to spend Gleec Coin in more than 40 million terminals around the world, Gleec Pay, a licensed banking solution, GleecDEX, a decentralized storage and trading platform and several others.",
     "categories": ["smartChains"],
     "link": "https://gleec.com/",
     "image": { "name": "gleec", "width": "70", "height": "70" }
@@ -439,6 +439,13 @@
     "categories": ["gaming"],
     "link": "https://gleec.com/",
     "image": { "name": "chips", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Crypto Collider",
+    "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
+    "categories": ["gaming"],
+    "link": "https://cryptocollider.com/",
+    "image": { "name": "atomicdex", "width": "70", "height": "70" }
   },
   {
     "name": "CoinPayments",
@@ -467,7 +474,7 @@
   },
   {
     "name": "Bidali",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Bidali helps businesses increase sales and eliminate fraud with next generation payments and more flexible gift cards.",
     "categories": ["payment"],
     "link": "https://www.bidali.com/",
     "image": { "name": "bidali", "width": "70", "height": "70" }
