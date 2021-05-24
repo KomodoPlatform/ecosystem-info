@@ -1,12 +1,5 @@
 [
   {
-    "name": "Kairon Labs",
-    "description": "Kairon Labs provides a full suite of solutions for token issuing organizations for the entire market-life-cycle of the token.",
-    "categories": ["liquidity"],
-    "link": "https://kaironlabs.com/",
-    "image": { "name": "kairon-labs", "width": "70", "height": "70" }
-  },
-  {
     "name": "Abra",
     "description": "Abra empowers users in more than 150 countries to invest in hundreds of cryptocurrencies via a single app while giving users the freedom to buy, sell, hold, exchange and send them anywhere, anytime.",
     "categories": ["liquidity"],
@@ -15,8 +8,8 @@
   },
   {
     "name": "Guarda",
-    "description": "Guarda Wallet is non-custodial cryptocurrency wallet that supports the most popular coins and their tokens including, BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
-    "categories": ["liquidity"],
+    "description": "Guarda Wallet is non-custodial cryptocurrency that supports the most popular coins and their tokens including, BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
+    "categories": ["wallet"],
     "link": "https://guarda.com/",
     "image": { "name": "guarda", "width": "70", "height": "70" }
   },
@@ -59,39 +52,33 @@
     "name": "LeewayHertz",
     "description": "LeewayHertz is a a software development company for startups and enterprises that builds innovative solutions using emerging technologies.",
     "categories": ["development"],
-    "link": "https://gleec.com/",
+    "link": "https://www.leewayhertz.com/",
     "image": { "name": "leewayhertz", "width": "70", "height": "70" }
   },
   {
-    "name": "Chainzilla",
+    "name": "ChainZilla",
     "description": "ChainZilla develops mobile apps and blockchains and offers blockchain consulting services for businesses.",
     "categories": ["development"],
     "link": "https://chainzilla.io/",
     "image": { "name": "chainzilla", "width": "70", "height": "70" }
   },
   {
-    "name": "Binance Smart Chain",
+    "name": "Binance Chain",
     "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
     "categories": ["defi"],
     "link": "https://www.binance.org/en/smartChain",
     "image": { "name": "binance-Smart-Chain", "width": "70", "height": "70" }
   },
   {
-    "name": "GLEECDEX",
+    "name": "GLeecDEX",
     "description": "Built for the Gleec Coin (GLEEC) project, GleecDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
     "categories": ["dex"],
     "link": "https://gleec.com/",
     "image": { "name": "gleec", "width": "70", "height": "70" }
   },
+
   {
-    "name": "RAVENDEX",
-    "description": "Built for the Ravencoin (RVN) project, RavenDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "categories": ["dex"],
-    "link": "https://ravencoin.org/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "DOGEDEX",
+    "name": "DogeDEX",
     "description": "Built for the Dogecoin (DOGE) project, DogeDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
     "categories": ["dex"],
     "link": "https://dogedex.xyz/",
@@ -106,9 +93,9 @@
   },
   {
     "name": "AtomicDEX",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Developers and enterprises use Komodo AtomicDEX API to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. AtomicDEX by Komodo, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo AtomicDEX API.",
     "categories": ["exchange"],
-    "link": "https://gleec.com/",
+    "link": "http://atomicdex.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
@@ -161,13 +148,6 @@
     "image": { "name": "coinex", "width": "70", "height": "70" }
   },
   {
-    "name": "HitBTC",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["exchange"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
     "name": "Bitbns",
     "description": "Founded by 3 IIT kgp graduates bitbns now has 80 digital assets from which users can choose from to trade. Users can margin trade with upto 4x leverage while trading. Bitbns also offers interest bearing product on digital assets with fixed income plans and also has a SIP on bitcoin with bitdroplet.com and has built tools for finding arbitrages between cryptos.",
     "categories": ["exchange"],
@@ -217,7 +197,7 @@
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
-    "name": "TokenView",
+    "name": "Tokenview",
     "description": "Tokenview Blockchain Explorer is a multi-crypto explorer to search all datas of Bitcoin, Ethereum USDT ERC20, Tron and more.",
     "categories": ["explorer"],
     "link": "https://kmd.tokenview.com/",
@@ -238,17 +218,17 @@
     "image": { "name": "dexplorer", "width": "130", "height": "35" }
   },
   {
-    "name": "Amazon",
+    "name": "Amazon Web Services",
     "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
     "categories": ["infrastructure"],
-    "link": "https://kmdexplorer.io/",
+    "link": "https://partners.amazonaws.com/partners/0010L00001sCXagQAG/Komodo%20Platform/",
     "image": { "name": "amazon", "width": "130", "height": "35" }
   },
   {
-    "name": "Google",
+    "name": "Google Cloud",
     "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
     "categories": ["infrastructure"],
-    "link": "https://komodod.com/",
+    "link": "https://cloud.google.com/partners/",
     "image": { "name": "google", "width": "130", "height": "35" }
   },
   {
@@ -266,43 +246,15 @@
     "image": { "name": "band-protocol", "width": "70", "height": "70" }
   },
   {
-    "name": "ChainLink",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["oracle"],
-    "link": "https://komodod.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "SPL Foundation",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["grants"],
-    "link": "https://kmdexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "FIO Protocol",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["grants"],
-    "link": "https://komodod.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "SFUSD",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["stablecoin"],
-    "link": "https://kmdexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "MCL",
+    "name": "Marmara Credit Loops (MCL)",
     "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
-    "categories": ["stablecoin"],
+    "categories": ["smartChains"],
     "link": "https://marmara.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
     "name": "Hardware Wallet Tool",
-    "description": "Manage your coins from a hardware wallet device, Trezor and Ledger supported.",
+    "description": "Manage your coins from a hardware wallet device, Trezor and supported.",
     "categories": ["tools"],
     "link": "https://pbca26.github.io/hw-kmd-wallet/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
@@ -329,7 +281,7 @@
     "image": { "name": "coinomi", "width": "70", "height": "70" }
   },
   {
-    "name": "Coincollect",
+    "name": "CoinCollect",
     "description": "CoinCollect is a mobile non-custodial wallet with exchanging capabilities.",
     "categories": ["wallet"],
     "link": "https://coincollect.cc/",
@@ -350,7 +302,7 @@
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
-    "name": "Verus Pay",
+    "name": "VerusPay",
     "description": "This plugin extends WooCommerce, adding the ability to accept cryptocurrency payments in Verus Coin (VRSC) using either an on-store wallet daemon (best for VPS or dedicated hosting stores) or manually configured VRSC addresses (best for shared hosting stores).",
     "categories": ["wallet"],
     "link": "https://github.com/VerusCoin/VerusPay",
@@ -385,59 +337,38 @@
     "image": { "name": "coinflip", "width": "70", "height": "70" }
   },
   {
-    "name": "ARRR",
+    "name": "Pirate Chain (ARRR)",
     "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses ZK-Snarks to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
     "categories": ["smartChains"],
     "link": "https://pirate.black/",
     "image": { "name": "pirate", "width": "70", "height": "70" }
   },
   {
-    "name": "VERUS",
-    "description": "Verus Coin is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
+    "name": "VerusCoin (VRSC)",
+    "description": "VerusCoin (VRSC) is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
     "categories": ["smartChains"],
     "link": "https://verus.io/",
     "image": { "name": "verus", "width": "70", "height": "70" }
   },
   {
-    "name": "MCL",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["smartChains"],
-    "link": "https://kmd.tokenview.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "SFUSD",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["smartChains"],
-    "link": "https://www.atomicexplorer.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "SMTF",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["smartChains"],
-    "link": "https://dexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "THC",
+    "name": "HempCoin (THC)",
     "description": "Launched in 2014, the HempCoin (THC) was built on the source code of Komodo (KMD) for the Hemp Industry. The vision for THC is to help facilitate secure transactional relationships between farmers, distributors, and consumers.",
     "categories": ["smartChains"],
     "link": "https://hempcoin.org/",
     "image": { "name": "hempcoin", "width": "70", "height": "70" }
   },
   {
-    "name": "GLEEC",
+    "name": "Gleec Coin (GLEEC)",
     "description": "Gleec is a digital ecosystem powered by blockchain technology. The native coin, GLEEC, can be used for a range of services and products. The project is focused on providing fluid user experiences, real-world use and security. Now, the Gleec ecosystem is steadily expanding, with an emphasis on boosting utility for GLEEC.The ecosystem now offers solutions in crypto and finance with Gleec Card, a Top Up Visa Card that makes possible to spend Gleec Coin in more than 40 million terminals around the world, Gleec Pay, a licensed banking solution, GleecDEX, a decentralized storage and trading platform and several others.",
     "categories": ["smartChains"],
     "link": "https://gleec.com/",
     "image": { "name": "gleec", "width": "70", "height": "70" }
   },
   {
-    "name": "CHIPS",
+    "name": "CHIPS (CHIPS)",
     "description": "On the CHIPS blockchain, users play Pangea Poker - a decentralized, trustless poker game.",
     "categories": ["gaming"],
-    "link": "https://gleec.com/",
+    "link": "https://twitter.com/pangea_chips",
     "image": { "name": "chips", "width": "70", "height": "70" }
   },
   {
@@ -462,7 +393,7 @@
     "image": { "name": "nowpayments", "width": "70", "height": "70" }
   },
   {
-    "name": "CryptocurrencyCheckout",
+    "name": "Cryptocurrency Checkout",
     "description": "Cryptocurrency Checkout is a non-custodial payment gateway providing plugins that make accepting multiple cryptocurrencies for products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
     "categories": ["payment"],
     "link": "https://cryptocurrencycheckout.com/",
@@ -479,54 +410,14 @@
     "link": "https://www.bidali.com/",
     "image": { "name": "bidali", "width": "70", "height": "70" }
   },
-  {
-    "name": "Playhub Casino",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://cryptwerk.com/pay-with/kmd/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "WPSec",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "FlokiNet",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "Snel",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "The Bitcoin Wardrobe",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "MonsterMegs",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "HostMeNow",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["merchants"],
-    "link": "https://gleec.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+  
+  
+   {
+    "name": "Crypto Collider (CLC)",
+    "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
+    "categories": ["smartChains"],
+    "link": "https://cryptocollider.com/",
+    "image": { "name": "collider", "width": "70", "height": "70" }
   },
   {
     "name": "VerusID",
