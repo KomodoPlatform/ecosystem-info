@@ -82,7 +82,7 @@
     "description": "Built for the Dogecoin (DOGE) project, DogeDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
     "categories": ["dex"],
     "link": "https://dogedex.xyz/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "doge", "width": "56", "height": "70" }
   },
   {
     "name": "Binance",
@@ -96,7 +96,7 @@
     "description": "Developers and enterprises use Komodo AtomicDEX API to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. AtomicDEX by Komodo, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo AtomicDEX API.",
     "categories": ["dex", "wallet", "development"],
     "link": "http://atomicdex.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "atomicdex", "width": "62", "height": "70" }
   },
   {
     "name": "Bittrex",
@@ -187,14 +187,14 @@
     "description": "KMDExplorer is a block explorer for the KMD blockchain.",
     "categories": ["explorer"],
     "link": "https://kmdexplorer.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "komodo", "width": "70", "height": "70" }
   },
   {
     "name": "Komodod",
     "description": "Komodod is a block explorer for the KMD blockchain.",
     "categories": ["explorer"],
     "link": "https://komodod.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "komodod", "width": "254", "height": "70" }
   },
   {
     "name": "Tokenview",
@@ -217,20 +217,13 @@
     "link": "https://dexplorer.io/",
     "image": { "name": "dexplorer", "width": "130", "height": "35" }
   },
-  
-    {
+
+  {
     "name": "Crypto.com",
     "description": "Founded in 2016, Crypto.com today serves over 10 million customers with the world's fastest growing crypto app, along with the Crypto.com Visa Card — the world's largest crypto card program — the Crypto.com Exchange and Crypto.com DeFi Wallet.",
     "categories": ["exchange", "wallets"],
     "link": "https://crypto.com/",
-    "image": { "name": "crypto-com", "width": "400", "height": "400" }
-  },
-  {
-    "name": "Google Cloud",
-    "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
-    "categories": ["infrastructure"],
-    "link": "https://cloud.google.com/partners/",
-    "image": { "name": "google", "width": "130", "height": "35" }
+    "image": { "name": "crypto-com", "width": "70", "height": "70" }
   },
   {
     "name": "Tokel",
@@ -265,13 +258,6 @@
     "description": "Track the liquidity of Komodo AtomicDEX API shared order books.",
     "categories": ["tools"],
     "link": "https://dexstats.info/liquidity.php",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
-  },
-  {
-    "name": "AtomicDEX",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["wallet"],
-    "link": "https://kmdexplorer.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
   {
@@ -314,7 +300,7 @@
     "description": "OceanQT is a native wallet for storing, sending and receiving Komodo and Komodo asset-chain funds, developed by ip-gpu and Komodo team member Decker.",
     "categories": ["wallet"],
     "link": "https://github.com/DeckerSU/KomodoOcean/releases",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "komodo-ocean-qt", "width": "260", "height": "70" }
   },
   {
     "name": "Zelcore",
@@ -340,14 +326,14 @@
   {
     "name": "Pirate Chain (ARRR)",
     "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses ZK-Snarks to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
-    "categories": ["smartChains"],
+    "categories": ["smartChains", "privacy"],
     "link": "https://pirate.black/",
     "image": { "name": "pirate", "width": "70", "height": "70" }
   },
   {
     "name": "VerusCoin (VRSC)",
     "description": "VerusCoin (VRSC) is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
-    "categories": ["smartChains", "defi"],
+    "categories": ["smartChains", "defi", "privacy"],
     "link": "https://verus.io/",
     "image": { "name": "verus", "width": "70", "height": "70" }
   },
@@ -431,7 +417,6 @@
     "description": "To find a comprehensive list of merchants that accept KMD as payment, visit Cryptwerk.com.",
     "categories": ["merchants"],
     "link": "https://cryptwerk.com/pay-with/kmd/",
-    "image": { "name": "cryptwerk", "width": "400", "height": "400" }
+    "image": { "name": "cryptwerk", "width": "70", "height": "70" }
   }
-  
 ]
