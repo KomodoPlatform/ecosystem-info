@@ -376,7 +376,7 @@
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
     "categories": ["gaming"],
     "link": "https://cryptocollider.com/",
-    "image": { "name": "atomicdex", "width": "70", "height": "70" }
+    "image": { "name": "collider", "width": "70", "height": "70" }
   },
   {
     "name": "CoinPayments",
