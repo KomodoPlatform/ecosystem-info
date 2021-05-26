@@ -673,20 +673,6 @@
     }
   },
   {
-    "name": "Crypto Collider",
-    "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
-    "categories": [
-      "smartChains",
-      "gaming"
-    ],
-    "link": "https://cryptocollider.com/",
-    "image": {
-      "name": "collider",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "CoinPayments",
     "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, while supporting more than 2,0000000000000000 coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
     "categories": [
