@@ -8,7 +8,7 @@
   },
   {
     "name": "Guarda",
-    "description": "Guarda Wallet is non-custodial cryptocurrency that supports the most popular coins and their tokens including, BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
+    "description": "Guarda Wallet is non-custodial cryptocurrency wallet that supports the most popular coins and their tokens including, BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
     "categories": ["wallet"],
     "link": "https://guarda.com/",
     "image": { "name": "guarda", "width": "70", "height": "70" }
