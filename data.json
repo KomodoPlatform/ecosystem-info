@@ -2,387 +2,722 @@
   {
     "name": "Abra",
     "description": "Abra empowers users in more than 150 countries to invest in hundreds of cryptocurrencies via a single app while giving users the freedom to buy, sell, hold, exchange and send them anywhere, anytime.",
-    "categories": ["liquidity", "wallet", "exchange"],
+    "categories": [
+      "liquidity",
+      "wallet",
+      "exchange"
+    ],
     "link": "https://www.abra.com/",
-    "image": { "name": "abra", "width": "260", "height": "70" }
+    "image": {
+      "name": "abra",
+      "width": "260",
+      "height": "70"
+    }
   },
   {
     "name": "Guarda",
     "description": "Guarda Wallet is non-custodial cryptocurrency wallet that supports the most popular coins and their tokens including, BTC, BCH, BSV, ETH, NFTs, Ethereum-based tokens (ERC20, ERC721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH, and the others.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://guarda.com/",
-    "image": { "name": "guarda", "width": "70", "height": "70" }
+    "image": {
+      "name": "guarda",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Travala",
     "description": "Founded in 2017, Travala.com is the leading cryptocurrency-friendly travel booking service with 3,000,000 travel products worldwide, including stays, flights and activities. Backed by industry-giant Binance, Travala.com is a champion of cryptocurrency adoption, accepting over 40 leading cryptocurrencies in addition to traditional payment methods. AVA bolsters the Travala.com value proposition.",
-    "categories": ["liquidity"],
+    "categories": [
+      "liquidity"
+    ],
     "link": "https://www.travala.com/",
-    "image": { "name": "travala", "width": "70", "height": "70" }
+    "image": {
+      "name": "travala",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Bidao",
     "description": "Bidao is building a decentralized finance (DeFi) and trustless stablecoin system to create a more open, borderless, transparent world through financial services. A decentralized stablecoin system creates the opportunity for an open financial system, where anyone willing to provide collateral can generate Bidao's stablecoin.",
-    "categories": ["liquidity"],
+    "categories": [
+      "liquidity"
+    ],
     "link": "https://bidaochain.org/",
-    "image": { "name": "bidao", "width": "70", "height": "70" }
+    "image": {
+      "name": "bidao",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Amazon Web Services",
     "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
-    "categories": ["liquidity"],
+    "categories": [
+      "liquidity"
+    ],
     "link": "https://partners.amazonaws.com/partners/0010L00001sCXagQAG/Komodo%20Platform",
-    "image": { "name": "aws", "width": "121", "height": "70" }
+    "image": {
+      "name": "aws",
+      "width": "121",
+      "height": "70"
+    }
   },
   {
     "name": "Google Cloud",
     "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
-    "categories": ["liquidity"],
+    "categories": [
+      "liquidity"
+    ],
     "link": "https://cloud.google.com/partners",
-    "image": { "name": "google-cloud", "width": "70", "height": "70" }
+    "image": {
+      "name": "google-cloud",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Vleppo",
     "description": "Vleppo’s mission is to provide everyday business people ranging from freelancers through to large companies with access to effective and affordable solutions, leveraging blockchain technology.",
-    "categories": ["development"],
+    "categories": [
+      "development"
+    ],
     "link": "https://vleppo.com/",
-    "image": { "name": "vleppo", "width": "92", "height": "70" }
+    "image": {
+      "name": "vleppo",
+      "width": "92",
+      "height": "70"
+    }
   },
   {
     "name": "LeewayHertz",
     "description": "LeewayHertz is a a software development company for startups and enterprises that builds innovative solutions using emerging technologies.",
-    "categories": ["development"],
+    "categories": [
+      "development"
+    ],
     "link": "https://www.leewayhertz.com/",
-    "image": { "name": "leewayhertz", "width": "70", "height": "70" }
+    "image": {
+      "name": "leewayhertz",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "ChainZilla",
     "description": "ChainZilla develops mobile apps and blockchains and offers blockchain consulting services for businesses.",
-    "categories": ["development"],
+    "categories": [
+      "development"
+    ],
     "link": "https://chainzilla.io/",
-    "image": { "name": "chainzilla", "width": "70", "height": "70" }
+    "image": {
+      "name": "chainzilla",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Binance Chain",
     "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
-    "categories": ["defi"],
+    "categories": [
+      "defi"
+    ],
     "link": "https://www.binance.org/en/smartChain",
-    "image": { "name": "binance-smart-chain", "width": "70", "height": "70" }
+    "image": {
+      "name": "binance-smart-chain",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "GLeecDEX",
     "description": "Built for the Gleec Coin (GLEEC) project, GleecDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "categories": ["dex"],
+    "categories": [
+      "dex"
+    ],
     "link": "https://gleec.com/",
-    "image": { "name": "gleec", "width": "70", "height": "70" }
+    "image": {
+      "name": "gleec",
+      "width": "70",
+      "height": "70"
+    }
   },
-
   {
     "name": "DogeDEX",
     "description": "Built for the Dogecoin (DOGE) project, DogeDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "categories": ["dex"],
+    "categories": [
+      "dex"
+    ],
     "link": "https://dogedex.xyz/",
-    "image": { "name": "doge", "width": "56", "height": "70" }
+    "image": {
+      "name": "doge",
+      "width": "56",
+      "height": "70"
+    }
   },
   {
     "name": "Binance",
     "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "http://binance.com/",
-    "image": { "name": "binance", "width": "70", "height": "70" }
+    "image": {
+      "name": "binance",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "AtomicDEX",
     "description": "Developers and enterprises use Komodo AtomicDEX API to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. AtomicDEX by Komodo, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo AtomicDEX API.",
-    "categories": ["dex", "wallet", "development"],
+    "categories": [
+      "dex",
+      "wallet",
+      "development"
+    ],
     "link": "http://atomicdex.io/",
-    "image": { "name": "atomicdex", "width": "62", "height": "70" }
+    "image": {
+      "name": "atomicdex",
+      "width": "62",
+      "height": "70"
+    }
   },
   {
     "name": "Bittrex",
     "description": "Founded in 2014 by three cybersecurity engineers, Bittrex is the premier U.S.-based blockchain platform, providing lightning-fast trade execution, dependable digital wallets and industry-leading security practices. Bittrex's mission is to help advance the blockchain industry by fostering innovation, incubating new and emerging technology, and driving transformative change.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://bittrex.com/",
-    "image": { "name": "bittrex", "width": "388", "height": "70" }
+    "image": {
+      "name": "bittrex",
+      "width": "388",
+      "height": "70"
+    }
   },
   {
     "name": "Upbit",
     "description": "Upbit, launched by Dunamu Inc. in 2017, is the largest digital asset exchange in South Korea. Equipped with world-class technology, regulatory expertise, and operational know-how, Upbit currently operates exchanges in South Korea, Singapore, and Indonesia.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://upbit.com/",
-    "image": { "name": "upbit", "width": "70", "height": "70" }
+    "image": {
+      "name": "upbit",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Bithumb",
     "description": "Launched by BGH One Limited in 2019, Bithumb Global is a decentralized digital asset trading platform providing world-class fiat and cryptocurrency trading services to users worldwide. Part of the Bithumb family, one of the most popular cryptocurrency trading platforms in South Korea, and backed by more than half a million community members, Bithumb Global enables each global user to trade, participate or contribute in the digital assets ecosystem.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://www.bithumb.pro/",
-    "image": { "name": "bithumb", "width": "70", "height": "70" }
+    "image": {
+      "name": "bithumb",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Huobi",
     "description": "Huobi Group is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by liquidity and real-trading volume. Trusted by users in over 170 countries, the Huobi platform is dedicated to improving financial freedom and inclusive access for all users.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://www.huobi.com/",
-    "image": { "name": "huobi", "width": "70", "height": "70" }
+    "image": {
+      "name": "huobi",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "CoinDCX",
     "description": "CoinDCX is reputed to be world's most versatile and India's most trustworthy cryptocurrency exchange. CoinDCX's massive liquidity, powerful wallet, and impenetrable security make the trading experience extremely fast, reliable, and effortless.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://coindcx.com/",
-    "image": { "name": "CoinDCX", "width": "70", "height": "70" }
+    "image": {
+      "name": "CoinDCX",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Bitvavo",
     "description": "Bitvavo is the largest and most competitively priced exchange in the Netherlands where you can easily and safely buy, sell, deposit and withdraw digital currency. ",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://bitvavo.com/",
-    "image": { "name": "bitvavo", "width": "70", "height": "70" }
+    "image": {
+      "name": "bitvavo",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "CoinEX",
     "description": "As a global and professional cryptocurrency exchange service provider, CoinEx was founded in December 2017 with Bitmain-led investment. It is a subsidiary brand of the ViaBTC Group, which owns the fifth largest BTC mining pool and is also the largest BCH mining pool in the world.CoinEx supports spot, perpetual contract, and other derivatives trading. Its service reaches global users in nearly 100 countries/regions with various languages available, such as Chinese, English, Korean and Russian.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://www.coinex.com/",
-    "image": { "name": "coinex", "width": "70", "height": "70" }
+    "image": {
+      "name": "coinex",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Bitbns",
     "description": "Founded by 3 IIT kgp graduates bitbns now has 80 digital assets from which users can choose from to trade. Users can margin trade with upto 4x leverage while trading. Bitbns also offers interest bearing product on digital assets with fixed income plans and also has a SIP on bitcoin with bitdroplet.com and has built tools for finding arbitrages between cryptos.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://bitbns.com/",
-    "image": { "name": "bitbns", "width": "70", "height": "70" }
+    "image": {
+      "name": "bitbns",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Liquid",
     "description": "Liquid is a leading global fintech company founded in 2014, with offices in Japan, Singapore, and Vietnam. Liquid was the first exchange licensed by the Japan Financial Services Agency in 2017, and in 2019 the exchange's yearly trading volume exceeded 60bn USD.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://www.liquid.com/",
-    "image": { "name": "liquid", "width": "70", "height": "70" }
+    "image": {
+      "name": "liquid",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Huobi Korea",
     "description": "Established in 2018, Huobi Korea is an extension of Huobi Group, one of the world's leading blockchain company. Huobi Korea is dedicated to provide reliable and secure services as an exchange, with plans to develop a more comprehensive blockchain ecosystem, including a blockchain research institute, portal businesses and financial services. ",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://www.huobi.co.kr/",
-    "image": { "name": "huobi-korea", "width": "70", "height": "70" }
+    "image": {
+      "name": "huobi-korea",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "ShapeShift",
     "description": "Since 2014, ShapeShift has been pioneering self-custody for digital asset trading. The company's web and mobile platforms allow users around the world to safely buy, hold, trade and interact with digital asset platforms such as Bitcoin and Ethereum.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://shapeshift.com/",
-    "image": { "name": "shapeshift", "width": "70", "height": "70" }
+    "image": {
+      "name": "shapeshift",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Changelly",
     "description": "Changelly is an instant cryptocurrency exchange that allows you to exchange crypto fast and buy it with a bank card. The service provides the best crypto-to-crypto rates and supports over 140 cryptocurrencies available for exchange.",
-    "categories": ["exchange"],
+    "categories": [
+      "exchange"
+    ],
     "link": "https://changelly.com/",
-    "image": { "name": "changelly", "width": "70", "height": "70" }
+    "image": {
+      "name": "changelly",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "KMDExplorer",
     "description": "KMDExplorer is a block explorer for the KMD blockchain.",
-    "categories": ["explorer"],
+    "categories": [
+      "explorer"
+    ],
     "link": "https://kmdexplorer.io/",
-    "image": { "name": "komodo", "width": "70", "height": "70" }
+    "image": {
+      "name": "komodo",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Komodod",
     "description": "Komodod is a block explorer for the KMD blockchain.",
-    "categories": ["explorer"],
+    "categories": [
+      "explorer"
+    ],
     "link": "https://komodod.com/",
-    "image": { "name": "komodod", "width": "254", "height": "70" }
+    "image": {
+      "name": "komodod",
+      "width": "254",
+      "height": "70"
+    }
   },
   {
     "name": "Tokenview",
     "description": "Tokenview Blockchain Explorer is a multi-crypto explorer to search all datas of Bitcoin, Ethereum USDT ERC20, Tron and more.",
-    "categories": ["explorer"],
+    "categories": [
+      "explorer"
+    ],
     "link": "https://kmd.tokenview.com/",
-    "image": { "name": "tokenview", "width": "70", "height": "70" }
+    "image": {
+      "name": "tokenview",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "AtomicExplorer",
     "description": "AtomicExplorer is a block explorer for KMD and Komodo Smart Chains (KSCs).",
-    "categories": ["explorer"],
+    "categories": [
+      "explorer"
+    ],
     "link": "https://www.atomicexplorer.com/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": {
+      "name": "atomicdex",
+      "width": "130",
+      "height": "35"
+    }
   },
   {
     "name": "Dexplorer",
     "description": "Dexplorer is an order book and stats explorer for Komodo AtomicDEX API.",
-    "categories": ["explorer"],
+    "categories": [
+      "explorer"
+    ],
     "link": "https://dexplorer.io/",
-    "image": { "name": "dexplorer", "width": "130", "height": "35" }
+    "image": {
+      "name": "dexplorer",
+      "width": "130",
+      "height": "35"
+    }
   },
-
   {
     "name": "Crypto.com",
     "description": "Founded in 2016, Crypto.com today serves over 10 million customers with the world's fastest growing crypto app, along with the Crypto.com Visa Card — the world's largest crypto card program — the Crypto.com Exchange and Crypto.com DeFi Wallet.",
-    "categories": ["exchange", "wallets"],
+    "categories": [
+      "exchange",
+      "wallets"
+    ],
     "link": "https://crypto.com/",
-    "image": { "name": "crypto-com", "width": "70", "height": "70" }
+    "image": {
+      "name": "crypto-com",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Tokel",
     "description": "Tokel Platform is Komodo ecosystem's token platform. It consists of TOKEL coin wallet, Token wallet, NFT marketplace, and DEX.",
-    "categories": ["nfts"],
+    "categories": [
+      "nfts"
+    ],
     "link": "https://tokel.io/",
-    "image": { "name": "tokel", "width": "226", "height": "70" }
+    "image": {
+      "name": "tokel",
+      "width": "226",
+      "height": "70"
+    }
   },
   {
     "name": "Band Protocol",
     "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts. Blockchains are great at immutable storage and deterministic, verifiable computations - however, they cannot securely access data available outside the blockchain networks. Band Protocol enables smart contract applications such as DeFi, prediction markets, and games to be built on-chain without relying on the single point of failure of a centralized oracle.",
-    "categories": ["oracle"],
+    "categories": [
+      "oracle"
+    ],
     "link": "https://bandprotocol.com/",
-    "image": { "name": "band-protocol", "width": "70", "height": "70" }
+    "image": {
+      "name": "band-protocol",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Marmara Credit Loops (MCL)",
     "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
-    "categories": ["smartChains", "defi"],
+    "categories": [
+      "smartChains",
+      "defi"
+    ],
     "link": "https://marmara.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": {
+      "name": "atomicdex",
+      "width": "130",
+      "height": "35"
+    }
   },
   {
     "name": "Hardware Wallet Tool",
     "description": "Manage your coins from a hardware wallet device, Trezor and supported.",
-    "categories": ["tools"],
+    "categories": [
+      "tools"
+    ],
     "link": "https://pbca26.github.io/hw-kmd-wallet/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": {
+      "name": "atomicdex",
+      "width": "130",
+      "height": "35"
+    }
   },
   {
     "name": "DEX Liquidity",
     "description": "Track the liquidity of Komodo AtomicDEX API shared order books.",
-    "categories": ["tools"],
+    "categories": [
+      "tools"
+    ],
     "link": "https://dexstats.info/liquidity.php",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": {
+      "name": "atomicdex",
+      "width": "130",
+      "height": "35"
+    }
   },
   {
     "name": "Coinomi",
     "description": "Coinomi is a security-first, multi-chain wallet for both mobile & desktop that provides native support and true ownership for more than 125 blockchains (the biggest number in the industry for non-custodial wallets) and thousands of tokens.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://www.coinomi.com/",
-    "image": { "name": "coinomi", "width": "70", "height": "70" }
+    "image": {
+      "name": "coinomi",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "CoinCollect",
     "description": "CoinCollect is a mobile non-custodial wallet with exchanging capabilities.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://coincollect.cc/",
-    "image": { "name": "coincollect", "width": "70", "height": "70" }
+    "image": {
+      "name": "coincollect",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Ledger",
     "description": "Ledger develops hardware wallet technology that provides the highest level of security for crypto assets. Ledger products combine a Secure Element and a proprietary OS designed specifically to protect crypto assets.Ledger hardware wallets empower users with the ownership and control of their private keys.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://www.ledger.com/",
-    "image": { "name": "ledger", "width": "70", "height": "70" }
+    "image": {
+      "name": "ledger",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Trezor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://trezor.io/",
-    "image": { "name": "trezor", "width": "70", "height": "70" }
+    "image": {
+      "name": "trezor",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "VerusPay",
     "description": "This plugin extends WooCommerce, adding the ability to accept cryptocurrency payments in Verus Coin (VRSC) using either an on-store wallet daemon (best for VPS or dedicated hosting stores) or manually configured VRSC addresses (best for shared hosting stores).",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://github.com/VerusCoin/VerusPay",
-    "image": { "name": "verus", "width": "70", "height": "70" }
+    "image": {
+      "name": "verus",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Komodo Ocean QT Wallet",
     "description": "OceanQT is a native wallet for storing, sending and receiving Komodo and Komodo asset-chain funds, developed by ip-gpu and Komodo team member Decker.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://github.com/DeckerSU/KomodoOcean/releases",
-    "image": { "name": "komodo-ocean-qt", "width": "260", "height": "70" }
+    "image": {
+      "name": "komodo-ocean-qt",
+      "width": "260",
+      "height": "70"
+    }
   },
   {
     "name": "Zelcore",
     "description": "Zelcore is a fully-featured digital asset wallet for everyone. Store and manage over 275 cryptocurrencies and assets, including up to 12 individual wallet addresses for each.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://runonflux.io/",
-    "image": { "name": "zelcore", "width": "406", "height": "70" }
+    "image": {
+      "name": "zelcore",
+      "width": "406",
+      "height": "70"
+    }
   },
   {
     "name": "Atomic Wallet",
     "description": "Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.",
-    "categories": ["wallet"],
+    "categories": [
+      "wallet"
+    ],
     "link": "https://atomicwallet.io/",
-    "image": { "name": "atomic-wallet", "width": "170", "height": "70" }
+    "image": {
+      "name": "atomic-wallet",
+      "width": "170",
+      "height": "70"
+    }
   },
   {
     "name": "CoinFlip",
     "description": "CoinFlip, the world’s leading bitcoin ATM operator,makes it so flippin’ easy to buy and sell bitcoin via cash, card, or bank transfer.",
-    "categories": ["atm"],
+    "categories": [
+      "atm"
+    ],
     "link": "https://www.coinflip.tech/",
-    "image": { "name": "coinflip", "width": "70", "height": "70" }
+    "image": {
+      "name": "coinflip",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Pirate Chain (ARRR)",
     "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses ZK-Snarks to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
-    "categories": ["smartChains", "privacy"],
+    "categories": [
+      "smartChains",
+      "privacy"
+    ],
     "link": "https://pirate.black/",
-    "image": { "name": "pirate", "width": "70", "height": "70" }
+    "image": {
+      "name": "pirate",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "VerusCoin (VRSC)",
     "description": "VerusCoin (VRSC) is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
-    "categories": ["smartChains", "defi", "privacy"],
+    "categories": [
+      "smartChains",
+      "defi",
+      "privacy"
+    ],
     "link": "https://verus.io/",
-    "image": { "name": "verus", "width": "70", "height": "70" }
+    "image": {
+      "name": "verus",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "HempCoin (THC)",
     "description": "Launched in 2014, the HempCoin (THC) was built on the source code of Komodo (KMD) for the Hemp Industry. The vision for THC is to help facilitate secure transactional relationships between farmers, distributors, and consumers.",
-    "categories": ["smartChains"],
+    "categories": [
+      "smartChains"
+    ],
     "link": "https://hempcoin.org/",
-    "image": { "name": "hempcoin", "width": "70", "height": "70" }
+    "image": {
+      "name": "hempcoin",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Gleec Coin (GLEEC)",
     "description": "Gleec is a digital ecosystem powered by blockchain technology. The native coin, GLEEC, can be used for a range of services and products. The project is focused on providing fluid user experiences, real-world use and security. Now, the Gleec ecosystem is steadily expanding, with an emphasis on boosting utility for GLEEC.The ecosystem now offers solutions in crypto and finance with Gleec Card, a Top Up Visa Card that makes possible to spend Gleec Coin in more than 40 million terminals around the world, Gleec Pay, a licensed banking solution, GleecDEX, a decentralized storage and trading platform and several others.",
-    "categories": ["smartChains", "payment"],
+    "categories": [
+      "smartChains",
+      "payment"
+    ],
     "link": "https://gleec.com/",
-    "image": { "name": "gleec", "width": "70", "height": "70" }
+    "image": {
+      "name": "gleec",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "CHIPS (CHIPS)",
     "description": "On the CHIPS blockchain, users play Pangea Poker - a decentralized, trustless poker game.",
-    "categories": ["gaming"],
+    "categories": [
+      "gaming"
+    ],
     "link": "https://twitter.com/pangea_chips",
-    "image": { "name": "chips", "width": "70", "height": "70" }
+    "image": {
+      "name": "chips",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Crypto Collider",
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
-    "categories": ["smartChains", "gaming"],
+    "categories": [
+      "smartChains",
+      "gaming"
+    ],
     "link": "https://cryptocollider.com/",
-    "image": { "name": "collider", "width": "70", "height": "70" }
+    "image": {
+      "name": "collider",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "CoinPayments",
     "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, while supporting more than 2,0000000000000000 coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
-    "categories": ["payment"],
+    "categories": [
+      "payment"
+    ],
     "link": "https://www.coinpayments.net/",
-    "image": { "name": "coinpayments", "width": "70", "height": "70" }
+    "image": {
+      "name": "coinpayments",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "NOWPayments",
     "description": "NOWPayments is a noncustodial crypto payments service that enables businesses to accept instant online payments in 50+ cryptocurrencies, now including OKB. The platform also supports automatic coin conversion, enabling merchants to accept any cryptocurrency of their choice and receive instant payment notifications when they do.",
-    "categories": ["payment"],
+    "categories": [
+      "payment"
+    ],
     "link": "https://nowpayments.io/",
-    "image": { "name": "nowpayments", "width": "70", "height": "70" }
+    "image": {
+      "name": "nowpayments",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Cryptocurrency Checkout",
     "description": "Cryptocurrency Checkout is a non-custodial payment gateway providing plugins that make accepting multiple cryptocurrencies for products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
-    "categories": ["payment"],
+    "categories": [
+      "payment"
+    ],
     "link": "https://cryptocurrencycheckout.com/",
     "image": {
       "name": "cryptocurrency-checkout",
@@ -393,30 +728,54 @@
   {
     "name": "Bidali",
     "description": "Bidali helps businesses increase sales and eliminate fraud with next generation payments and more flexible gift cards.",
-    "categories": ["payment"],
+    "categories": [
+      "payment"
+    ],
     "link": "https://www.bidali.com/",
-    "image": { "name": "bidali", "width": "70", "height": "70" }
+    "image": {
+      "name": "bidali",
+      "width": "70",
+      "height": "70"
+    }
   },
-
   {
     "name": "Crypto Collider (CLC)",
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
-    "categories": ["smartChains", "gaming"],
+    "categories": [
+      "smartChains",
+      "gaming"
+    ],
     "link": "https://cryptocollider.com/",
-    "image": { "name": "collider", "width": "70", "height": "70" }
+    "image": {
+      "name": "collider",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "VerusID",
     "description": "The first self-sovereign, decentralized identities on the blockchain of its kind. A VerusID is a blockchain address that can hold funds and stake Verus. Future proof and packed with advanced capabilities. In this permissionless system anyone can create a VerusID and have complete ownership.",
-    "categories": ["defi"],
+    "categories": [
+      "defi"
+    ],
     "link": "https://verus.io/technology/verusID",
-    "image": { "name": "verus", "width": "70", "height": "70" }
+    "image": {
+      "name": "verus",
+      "width": "70",
+      "height": "70"
+    }
   },
   {
     "name": "Cryptwerk.com",
     "description": "To find a comprehensive list of merchants that accept KMD as payment, visit Cryptwerk.com.",
-    "categories": ["merchants"],
+    "categories": [
+      "merchants"
+    ],
     "link": "https://cryptwerk.com/pay-with/kmd/",
-    "image": { "name": "cryptwerk", "width": "70", "height": "70" }
+    "image": {
+      "name": "cryptwerk",
+      "width": "70",
+      "height": "70"
+    }
   }
 ]
