@@ -388,9 +388,9 @@
     ],
     "link": "https://www.atomicexplorer.com/",
     "image": {
-      "name": "atomicdex",
-      "width": "130",
-      "height": "35"
+      "name": "komodo",
+      "width": "70",
+      "height": "70"
     }
   },
   {
@@ -402,8 +402,8 @@
     "link": "https://dexplorer.io/",
     "image": {
       "name": "dexplorer",
-      "width": "130",
-      "height": "35"
+      "width": "350",
+      "height": "70"
     }
   },
   {
@@ -455,9 +455,9 @@
     ],
     "link": "https://marmara.io/",
     "image": {
-      "name": "atomicdex",
-      "width": "130",
-      "height": "35"
+      "name": "marmara-credit-loops",
+      "width": "235",
+      "height": "70"
     }
   },
   {
@@ -468,9 +468,9 @@
     ],
     "link": "https://pbca26.github.io/hw-kmd-wallet/",
     "image": {
-      "name": "atomicdex",
-      "width": "130",
-      "height": "35"
+      "name": "komodo",
+      "width": "70",
+      "height": "70"
     }
   },
   {
@@ -481,9 +481,9 @@
     ],
     "link": "https://dexstats.info/liquidity.php",
     "image": {
-      "name": "atomicdex",
-      "width": "130",
-      "height": "35"
+      "name": "komodo",
+      "width": "70",
+      "height": "70"
     }
   },
   {
