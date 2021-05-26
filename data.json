@@ -67,7 +67,7 @@
     "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
     "categories": ["defi"],
     "link": "https://www.binance.org/en/smartChain",
-    "image": { "name": "binance-Smart-Chain", "width": "70", "height": "70" }
+    "image": { "name": "binance-smart-chain", "width": "70", "height": "70" }
   },
   {
     "name": "GLeecDEX",
@@ -218,13 +218,6 @@
     "image": { "name": "dexplorer", "width": "130", "height": "35" }
   },
   {
-    "name": "Amazon Web Services",
-    "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
-    "categories": ["infrastructure"],
-    "link": "https://partners.amazonaws.com/partners/0010L00001sCXagQAG/Komodo%20Platform/",
-    "image": { "name": "amazon", "width": "130", "height": "35" }
-  },
-  {
     "name": "Google Cloud",
     "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
     "categories": ["infrastructure"],
@@ -299,7 +292,7 @@
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "categories": ["wallet"],
     "link": "https://trezor.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "trezor", "width": "70", "height": "70" }
   },
   {
     "name": "VerusPay",
@@ -320,14 +313,14 @@
     "description": "Zelcore is a fully-featured digital asset wallet for everyone. Store and manage over 275 cryptocurrencies and assets, including up to 12 individual wallet addresses for each.",
     "categories": ["wallet"],
     "link": "https://runonflux.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "zelcore", "width": "406", "height": "70" }
   },
   {
     "name": "Atomic Wallet",
     "description": "Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.",
     "categories": ["wallet"],
     "link": "https://atomicwallet.io/",
-    "image": { "name": "atomicdex", "width": "130", "height": "35" }
+    "image": { "name": "atomic-wallet", "width": "170", "height": "70" }
   },
   {
     "name": "CoinFlip",
@@ -410,9 +403,8 @@
     "link": "https://www.bidali.com/",
     "image": { "name": "bidali", "width": "70", "height": "70" }
   },
-  
-  
-   {
+
+  {
     "name": "Crypto Collider (CLC)",
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
     "categories": ["smartChains"],
