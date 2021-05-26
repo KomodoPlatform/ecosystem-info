@@ -44,6 +44,7 @@
     "name": "Bidao",
     "description": "Bidao is building a decentralized finance (DeFi) and trustless stablecoin system to create a more open, borderless, transparent world through financial services. A decentralized stablecoin system creates the opportunity for an open financial system, where anyone willing to provide collateral can generate Bidao's stablecoin.",
     "categories": [
+      "defi",
       "liquidity"
     ],
     "link": "https://bidaochain.org/",
@@ -663,6 +664,7 @@
     "name": "CHIPS (CHIPS)",
     "description": "On the CHIPS blockchain, users play Pangea Poker - a decentralized, trustless poker game.",
     "categories": [
+      "smartChains",
       "gaming"
     ],
     "link": "https://twitter.com/pangea_chips",
