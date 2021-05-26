@@ -2,7 +2,7 @@
   {
     "name": "Abra",
     "description": "Abra empowers users in more than 150 countries to invest in hundreds of cryptocurrencies via a single app while giving users the freedom to buy, sell, hold, exchange and send them anywhere, anytime.",
-    "categories": ["liquidity"],
+    "categories": ["liquidity", "wallet", "exchange"],
     "link": "https://www.abra.com/",
     "image": { "name": "abra", "width": "260", "height": "70" }
   },
@@ -94,7 +94,7 @@
   {
     "name": "AtomicDEX",
     "description": "Developers and enterprises use Komodo AtomicDEX API to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. AtomicDEX by Komodo, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo AtomicDEX API.",
-    "categories": ["exchange"],
+    "categories": ["dex", "wallet", "development"],
     "link": "http://atomicdex.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
@@ -217,6 +217,14 @@
     "link": "https://dexplorer.io/",
     "image": { "name": "dexplorer", "width": "130", "height": "35" }
   },
+  
+    {
+    "name": "Crypto.com",
+    "description": "Founded in 2016, Crypto.com today serves over 10 million customers with the world's fastest growing crypto app, along with the Crypto.com Visa Card — the world's largest crypto card program — the Crypto.com Exchange and Crypto.com DeFi Wallet.",
+    "categories": ["exchange", "wallets"],
+    "link": "https://crypto.com/",
+    "image": { "name": "crypto-com", "width": "400", "height": "400" }
+  },
   {
     "name": "Amazon Web Services",
     "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
@@ -248,7 +256,7 @@
   {
     "name": "Marmara Credit Loops (MCL)",
     "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
-    "categories": ["smartChains"],
+    "categories": ["smartChains", "defi"],
     "link": "https://marmara.io/",
     "image": { "name": "atomicdex", "width": "130", "height": "35" }
   },
@@ -346,7 +354,7 @@
   {
     "name": "VerusCoin (VRSC)",
     "description": "VerusCoin (VRSC) is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
-    "categories": ["smartChains"],
+    "categories": ["smartChains", "defi"],
     "link": "https://verus.io/",
     "image": { "name": "verus", "width": "70", "height": "70" }
   },
@@ -360,7 +368,7 @@
   {
     "name": "Gleec Coin (GLEEC)",
     "description": "Gleec is a digital ecosystem powered by blockchain technology. The native coin, GLEEC, can be used for a range of services and products. The project is focused on providing fluid user experiences, real-world use and security. Now, the Gleec ecosystem is steadily expanding, with an emphasis on boosting utility for GLEEC.The ecosystem now offers solutions in crypto and finance with Gleec Card, a Top Up Visa Card that makes possible to spend Gleec Coin in more than 40 million terminals around the world, Gleec Pay, a licensed banking solution, GleecDEX, a decentralized storage and trading platform and several others.",
-    "categories": ["smartChains"],
+    "categories": ["smartChains", "payment"],
     "link": "https://gleec.com/",
     "image": { "name": "gleec", "width": "70", "height": "70" }
   },
@@ -374,7 +382,7 @@
   {
     "name": "Crypto Collider",
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
-    "categories": ["gaming"],
+    "categories": ["smartChains", "gaming"],
     "link": "https://cryptocollider.com/",
     "image": { "name": "collider", "width": "70", "height": "70" }
   },
@@ -415,7 +423,7 @@
    {
     "name": "Crypto Collider (CLC)",
     "description": "Crypto Collider is a collection of games and trading tools to help you learn and earn crypto.",
-    "categories": ["smartChains"],
+    "categories": ["smartChains", "gaming"],
     "link": "https://cryptocollider.com/",
     "image": { "name": "collider", "width": "70", "height": "70" }
   },
@@ -425,5 +433,13 @@
     "categories": ["defi"],
     "link": "https://verus.io/technology/verusID",
     "image": { "name": "verus", "width": "70", "height": "70" }
+  },
+  {
+    "name": "Cryptwerk.com",
+    "description": "To find a comprehensive list of merchants that accept KMD as payment, visit Cryptwerk.com.",
+    "categories": ["merchants"],
+    "link": "https://cryptwerk.com/pay-with/kmd/",
+    "image": { "name": "cryptwerk", "width": "400", "height": "400" }
   }
+  
 ]
