@@ -3,7 +3,6 @@
     "name": "Abra",
     "description": "Abra empowers users in more than 150 countries to invest in hundreds of cryptocurrencies via a single app while giving users the freedom to buy, sell, hold, exchange and send them anywhere, anytime.",
     "categories": [
-      "liquidity",
       "wallet",
       "exchange"
     ],
@@ -31,7 +30,7 @@
     "name": "Travala",
     "description": "Founded in 2017, Travala.com is the leading cryptocurrency-friendly travel booking service with 3,000,000 travel products worldwide, including stays, flights and activities. Backed by industry-giant Binance, Travala.com is a champion of cryptocurrency adoption, accepting over 40 leading cryptocurrencies in addition to traditional payment methods. AVA bolsters the Travala.com value proposition.",
     "categories": [
-      "liquidity"
+      "merchants"
     ],
     "link": "https://www.travala.com/",
     "image": {
@@ -45,7 +44,7 @@
     "description": "Bidao is building a decentralized finance (DeFi) and trustless stablecoin system to create a more open, borderless, transparent world through financial services. A decentralized stablecoin system creates the opportunity for an open financial system, where anyone willing to provide collateral can generate Bidao's stablecoin.",
     "categories": [
       "defi",
-      "liquidity"
+      "stablecoin"
     ],
     "link": "https://bidaochain.org/",
     "image": {
@@ -58,7 +57,7 @@
     "name": "Amazon Web Services",
     "description": "Amazon Web Services provides highly reliable cloud computing services to customers in a low-cost manner. The AWS infrastructure platform is reliable and scalable, which makes it no surprise AWS 'powers hundreds of thousands of businesses in 190 countries around the world.",
     "categories": [
-      "liquidity"
+      "infrastructure"
     ],
     "link": "https://partners.amazonaws.com/partners/0010L00001sCXagQAG/Komodo%20Platform",
     "image": {
@@ -71,7 +70,7 @@
     "name": "Google Cloud",
     "description": "Google Cloud accelerates organizations' ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to solve their most critical business problems.",
     "categories": [
-      "liquidity"
+      "infrastructure"
     ],
     "link": "https://cloud.google.com/partners",
     "image": {
