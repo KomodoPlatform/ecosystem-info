@@ -675,7 +675,7 @@
   },
   {
     "name": "CoinPayments",
-    "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, while supporting more than 2,0000000000000000 coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
+    "description": "CoinPayments is the first and largest cryptocurrency payments processor with more than US $10 billion in total transactions to date, supports 100's of coins, and is the preferred cryptocurrency payment solution for merchants and eCommerce platform providers worldwide. Founded in 2013, CoinPayments is dedicated to providing clients with fast, secure and user-friendly crypto payment APIs, shopping cart plugins, digital wallets, cryptocurrency custody, and a host of other solutions supporting cryptocurrency payment applications.",
     "categories": [
       "payment"
     ],
