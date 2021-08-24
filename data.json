@@ -199,19 +199,6 @@
     }
   },
   {
-    "name": "Upbit",
-    "description": "Upbit, launched by Dunamu Inc. in 2017, is the largest digital asset exchange in South Korea. Equipped with world-class technology, regulatory expertise, and operational know-how, Upbit currently operates exchanges in South Korea, Singapore, and Indonesia.",
-    "categories": [
-      "exchange"
-    ],
-    "link": "https://upbit.com/",
-    "image": {
-      "name": "upbit",
-      "width": "70",
-      "height": "70"
-    }
-  },
-  {
     "name": "Bithumb",
     "description": "Launched by BGH One Limited in 2019, Bithumb Global is a decentralized digital asset trading platform providing world-class fiat and cryptocurrency trading services to users worldwide. Part of the Bithumb family, one of the most popular cryptocurrency trading platforms in South Korea, and backed by more than half a million community members, Bithumb Global enables each global user to trade, participate or contribute in the digital assets ecosystem.",
     "categories": [
