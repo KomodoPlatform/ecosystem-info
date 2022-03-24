@@ -751,5 +751,18 @@
       "width": "70",
       "height": "70"
     }
+  },
+  {
+    "name": "Kriptomat",
+    "description": "Kriptomat is an EU-based and licensed exchange and wallet service that offers a simple way to buy KMD with fiat payment options such as VISA / Mastercard and trade more than 260 cryptocurrencies.",
+    "categories": [
+      "exchange","fiat"
+    ],
+    "link": "https://twitter.com/kriptomat",
+    "image": {
+      "name": "kriptomat",
+      "width": "70",
+      "height": "70"
+    }
   }
 ]
