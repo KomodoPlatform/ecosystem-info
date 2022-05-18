@@ -636,5 +636,16 @@
       "width": "70",
       "height": "70"
     }
+  },
+  {
+    "name": "StealthEX",
+    "description": "StealthEX is a user-friendly service providing instant & non-custodial cryptocurrency exchanges. It's free from registration and the platform does not store users' funds. 400+ cryptocurrencies are available for easy exchanges.",
+    "categories": ["exchange"],
+    "link": "https://stealthex.io/",
+    "image": {
+      "name": "stealthex",
+      "width": "70",
+      "height": "70"
+    }
   }
 ]
