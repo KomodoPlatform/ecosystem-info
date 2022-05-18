@@ -121,10 +121,10 @@
     }
   },
   {
-    "name": "DogeDEX",
-    "description": "Built for the Dogecoin (DOGE) project, DogeDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
-    "categories": ["dex"],
-    "link": "https://dogedex.xyz/",
+    "name": "ShibaDEX",
+    "description": "Built for the Dogecoin (DOGE) project, ShibaDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
+    "categories": ["dex", "wallet"],
+    "link": "https://shibadex.io/",
     "image": {
       "name": "doge",
       "width": "56",
