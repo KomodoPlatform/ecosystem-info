@@ -126,8 +126,8 @@
     "categories": ["dex", "wallet"],
     "link": "https://shibadex.io/",
     "image": {
-      "name": "doge",
-      "width": "56",
+      "name": "shibadex",
+      "width": "70",
       "height": "70"
     }
   },
