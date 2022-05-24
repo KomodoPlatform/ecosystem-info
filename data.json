@@ -122,7 +122,7 @@
   },
   {
     "name": "ShibaDEX",
-    "description": "Built for the Dogecoin (DOGE) project, ShibaDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
+    "description": "ShibaDEX is a non-custodial multi-coin wallet and cross-chain decentralized exchange rolled into one app. HODL and trade SHIBA, DOGE, ETH, BTC, and thousands of other cryptocurrencies on ShibaDEX. Much Wow!",
     "categories": ["dex", "wallet"],
     "link": "https://shibadex.io/",
     "image": {
