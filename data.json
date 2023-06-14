@@ -473,17 +473,6 @@
     }
   },
   {
-    "name": "Atomic Wallet",
-    "description": "Atomic Wallet is a decentralized cryptocurrency wallet that supports more than 500 coins and tokens, providing simplicity, safety, and convenience for its users.",
-    "categories": ["wallet"],
-    "link": "https://atomicwallet.io/",
-    "image": {
-      "name": "atomic-wallet",
-      "width": "170",
-      "height": "70"
-    }
-  },
-  {
     "name": "CoinFlip",
     "description": "CoinFlip, the world’s leading bitcoin ATM operator,makes it so flippin’ easy to buy and sell bitcoin via cash, card, or bank transfer.",
     "categories": ["atm"],
