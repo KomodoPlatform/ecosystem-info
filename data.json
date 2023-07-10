@@ -27,6 +27,17 @@
     }
   },
   {
+    "name": "SimpleHold Wallet",
+    "description": "Non-custodial wallet, with focus on your security",
+    "categories": ["wallet"],
+    "link": "https://www.simplehold.io/",
+    "image": {
+      "name": "SimpleHold",
+      "width": "70",
+      "height": "70"
+    }
+  },
+  {
     "name": "Travala",
     "description": "Founded in 2017, Travala.com is the leading cryptocurrency-friendly travel booking service with 3,000,000 travel products worldwide, including stays, flights and activities. Backed by industry-giant Binance, Travala.com is a champion of cryptocurrency adoption, accepting over 40 leading cryptocurrencies in addition to traditional payment methods. AVA bolsters the Travala.com value proposition.",
     "categories": [
