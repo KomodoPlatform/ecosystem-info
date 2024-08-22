@@ -2,9 +2,7 @@
   {
     "name": "Binance Chain",
     "description": "Binance Smart Chain (BSC) is an independent blockchain that runs in parallel with the Binance Chain. BSC provides smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM).",
-    "categories": [
-      "defi"
-    ],
+    "categories": ["defi"],
     "link": "https://www.binance.org/en/smartChain",
     "image": {
       "name": "binance-smart-chain",
@@ -15,9 +13,7 @@
   {
     "name": "GLeecDEX",
     "description": "Built for the Gleec Coin (GLEEC) project, GleecDEX is a decentralized exchange and non-custodial wallet rolled into one application created with the Komodo DeFi Framework.",
-    "categories": [
-      "dex"
-    ],
+    "categories": ["dex"],
     "link": "https://gleec.com/",
     "image": {
       "name": "gleec",
@@ -28,10 +24,7 @@
   {
     "name": "ShibaDEX",
     "description": "ShibaDEX is a non-custodial multi-coin wallet and cross-chain decentralized exchange rolled into one app. HODL and trade SHIBA, DOGE, ETH, BTC, and thousands of other cryptocurrencies on ShibaDEX. Much Wow!",
-    "categories": [
-      "dex",
-      "wallet"
-    ],
+    "categories": ["dex", "wallet"],
     "link": "https://shibadex.io/",
     "image": {
       "name": "shibadex",
@@ -42,9 +35,7 @@
   {
     "name": "Binance",
     "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "http://binance.com/",
     "image": {
       "name": "binance",
@@ -55,11 +46,7 @@
   {
     "name": "Komodo Wallet",
     "description": "Developers and enterprises use the Komodo DeFi Framework to build powerful and scalable native cross-protocol DeFi applications such as non-custodial multi-coin wallets, DEXs, and marketplaces. Popular protocols already integrated include Bitcoin, Ethereum, BSC, Litecoin, Qtum, and more. Once a protocol is integrated, support can be extended to the network coin and its tokens. Komodo Wallet, which features a non-custodial wallet with an integrated DEX, is the first reference application built with the Komodo DeFi Framework.",
-    "categories": [
-      "dex",
-      "wallet",
-      "development"
-    ],
+    "categories": ["dex", "wallet", "development"],
     "link": "https://komodoplatform.com/en/wallets.html",
     "image": {
       "name": "komodo-wallet",
@@ -67,26 +54,10 @@
       "height": "46"
     }
   },
-  },
-  {
-    "name": "Bithumb",
-    "description": "Launched by BGH One Limited in 2019, Bithumb Global is a decentralized digital asset trading platform providing world-class fiat and cryptocurrency trading services to users worldwide. Part of the Bithumb family, one of the most popular cryptocurrency trading platforms in South Korea, and backed by more than half a million community members, Bithumb Global enables each global user to trade, participate or contribute in the digital assets ecosystem.",
-    "categories": [
-      "exchange"
-    ],
-    "link": "https://www.bithumb.pro/",
-    "image": {
-      "name": "bithumb",
-      "width": "70",
-      "height": "70"
-    }
-  },
   {
     "name": "Huobi",
     "description": "Huobi Group is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by liquidity and real-trading volume. Trusted by users in over 170 countries, the Huobi platform is dedicated to improving financial freedom and inclusive access for all users.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://www.huobi.com/",
     "image": {
       "name": "huobi",
@@ -97,9 +68,7 @@
   {
     "name": "CoinDCX",
     "description": "CoinDCX is reputed to be world's most versatile and India's most trustworthy cryptocurrency exchange. CoinDCX's massive liquidity, powerful wallet, and impenetrable security make the trading experience extremely fast, reliable, and effortless.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://coindcx.com/",
     "image": {
       "name": "CoinDCX",
@@ -110,9 +79,7 @@
   {
     "name": "Bitvavo",
     "description": "Bitvavo is the largest and most competitively priced exchange in the Netherlands where you can easily and safely buy, sell, deposit and withdraw digital currency. ",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://bitvavo.com/",
     "image": {
       "name": "bitvavo",
@@ -123,9 +90,7 @@
   {
     "name": "CoinEX",
     "description": "As a global and professional cryptocurrency exchange service provider, CoinEx was founded in December 2017 with Bitmain-led investment. It is a subsidiary brand of the ViaBTC Group, which owns the fifth largest BTC mining pool and is also the largest BCH mining pool in the world.CoinEx supports spot, perpetual contract, and other derivatives trading. Its service reaches global users in nearly 100 countries/regions with various languages available, such as Chinese, English, Korean and Russian.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://www.coinex.com/",
     "image": {
       "name": "coinex",
@@ -136,9 +101,7 @@
   {
     "name": "Bitbns",
     "description": "Founded by 3 IIT kgp graduates bitbns now has 80 digital assets from which users can choose from to trade. Users can margin trade with upto 4x leverage while trading. Bitbns also offers interest bearing product on digital assets with fixed income plans and also has a SIP on bitcoin with bitdroplet.com and has built tools for finding arbitrages between cryptos.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://bitbns.com/",
     "image": {
       "name": "bitbns",
@@ -149,9 +112,7 @@
   {
     "name": "Huobi Korea",
     "description": "Established in 2018, Huobi Korea is an extension of Huobi Group, one of the world's leading blockchain company. Huobi Korea is dedicated to provide reliable and secure services as an exchange, with plans to develop a more comprehensive blockchain ecosystem, including a blockchain research institute, portal businesses and financial services. ",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://www.huobi.co.kr/",
     "image": {
       "name": "huobi-korea",
@@ -162,9 +123,7 @@
   {
     "name": "Changelly",
     "description": "Changelly is an instant cryptocurrency exchange that allows you to exchange crypto fast and buy it with a bank card. The service provides the best crypto-to-crypto rates and supports over 140 cryptocurrencies available for exchange.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://changelly.com/",
     "image": {
       "name": "changelly",
@@ -175,9 +134,7 @@
   {
     "name": "KMDExplorer",
     "description": "KMDExplorer is a block explorer for the KMD blockchain.",
-    "categories": [
-      "explorer"
-    ],
+    "categories": ["explorer"],
     "link": "https://kmdexplorer.io/",
     "image": {
       "name": "komodo",
@@ -188,9 +145,7 @@
   {
     "name": "Tokenview",
     "description": "Tokenview Blockchain Explorer is a multi-crypto explorer to search all datas of Bitcoin, Ethereum USDT ERC20, Tron and more.",
-    "categories": [
-      "explorer"
-    ],
+    "categories": ["explorer"],
     "link": "https://kmd.tokenview.com/",
     "image": {
       "name": "tokenview",
@@ -201,10 +156,7 @@
   {
     "name": "Marmara Credit Loops (MCL)",
     "description": "Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash.",
-    "categories": [
-      "smartChains",
-      "defi"
-    ],
+    "categories": ["smartChains", "defi"],
     "link": "https://marmara.io/",
     "image": {
       "name": "marmara-credit-loops",
@@ -215,9 +167,7 @@
   {
     "name": "Hardware Wallet Tool",
     "description": "Manage your coins from a hardware wallet device, Trezor and supported.",
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "link": "https://pbca26.github.io/hw-kmd-wallet/",
     "image": {
       "name": "komodo",
@@ -228,9 +178,7 @@
   {
     "name": "DEX Liquidity",
     "description": "Track the liquidity on the shared order books of the DEXs created using the Komodo DeFi Framework.",
-    "categories": [
-      "tools"
-    ],
+    "categories": ["tools"],
     "link": "https://dexstats.info/liquidity.php",
     "image": {
       "name": "komodo",
@@ -241,9 +189,7 @@
   {
     "name": "Coinomi",
     "description": "Coinomi is a security-first, multi-chain wallet for both mobile & desktop that provides native support and true ownership for more than 125 blockchains (the biggest number in the industry for non-custodial wallets) and thousands of tokens.",
-    "categories": [
-      "wallet"
-    ],
+    "categories": ["wallet"],
     "link": "https://www.coinomi.com/",
     "image": {
       "name": "coinomi",
@@ -254,9 +200,7 @@
   {
     "name": "Ledger",
     "description": "Ledger develops hardware wallet technology that provides the highest level of security for crypto assets. Ledger products combine a Secure Element and a proprietary OS designed specifically to protect crypto assets.Ledger hardware wallets empower users with the ownership and control of their private keys.",
-    "categories": [
-      "wallet"
-    ],
+    "categories": ["wallet"],
     "link": "https://www.ledger.com/",
     "image": {
       "name": "ledger",
@@ -267,9 +211,7 @@
   {
     "name": "Trezor",
     "description": "Trezor is a hardware wallet proder that provides a secure way to store KMD and thousands of cryptocurrencies.",
-    "categories": [
-      "wallet"
-    ],
+    "categories": ["wallet"],
     "link": "https://trezor.io/",
     "image": {
       "name": "trezor",
@@ -280,9 +222,7 @@
   {
     "name": "Komodo Ocean QT Wallet",
     "description": "OceanQT is a native wallet for storing, sending and receiving Komodo and Komodo asset-chain funds, developed by ip-gpu and Komodo team member Decker.",
-    "categories": [
-      "wallet"
-    ],
+    "categories": ["wallet"],
     "link": "https://github.com/DeckerSU/KomodoOcean/releases",
     "image": {
       "name": "komodo-ocean-qt",
@@ -293,9 +233,7 @@
   {
     "name": "Zelcore",
     "description": "Zelcore is a fully-featured digital asset wallet for everyone. Store and manage over 275 cryptocurrencies and assets, including up to 12 individual wallet addresses for each.",
-    "categories": [
-      "wallet"
-    ],
+    "categories": ["wallet"],
     "link": "https://runonflux.io/",
     "image": {
       "name": "zelcore",
@@ -306,10 +244,7 @@
   {
     "name": "Pirate Chain (ARRR)",
     "description": "Pirate Chain (ARRR) is a 100% private send cryptocurrency. It uses a privacy protocol that cannot be compromised by other users activity on the network. Most privacy coins are riddled with holes created by optional privacy. Pirate Chain uses ZK-Snarks to shield 100% of the peer to peer transactions on the blockchain making for highly anonymous and private transactions.",
-    "categories": [
-      "smartChains",
-      "privacy"
-    ],
+    "categories": ["smartChains", "privacy"],
     "link": "https://pirate.black/",
     "image": {
       "name": "pirate",
@@ -320,11 +255,7 @@
   {
     "name": "VerusCoin (VRSC)",
     "description": "VerusCoin (VRSC) is a zero-knowledge technology, privacy-oriented project working to offer Public Blockchains as a Service (PBaaS). Verus Coin introduces a new consensus algorithm called Proof of Power, a 50% PoW / 50% PoS algorithm, which aims to solve weaknesses in other PoS systems.",
-    "categories": [
-      "smartChains",
-      "defi",
-      "privacy"
-    ],
+    "categories": ["smartChains", "defi", "privacy"],
     "link": "https://verus.io/",
     "image": {
       "name": "verus",
@@ -335,9 +266,7 @@
   {
     "name": "HempCoin (THC)",
     "description": "Launched in 2014, the HempCoin (THC) was built on the source code of Komodo (KMD) for the Hemp Industry. The vision for THC is to help facilitate secure transactional relationships between farmers, distributors, and consumers.",
-    "categories": [
-      "smartChains"
-    ],
+    "categories": ["smartChains"],
     "link": "https://hempcoin.org/",
     "image": {
       "name": "hempcoin",
@@ -348,10 +277,7 @@
   {
     "name": "Gleec Coin (GLEEC)",
     "description": "Gleec is a digital ecosystem powered by blockchain technology. The native coin, GLEEC, can be used for a range of services and products. The project is focused on providing fluid user experiences, real-world use and security. Now, the Gleec ecosystem is steadily expanding, with an emphasis on boosting utility for GLEEC.The ecosystem now offers solutions in crypto and finance with Gleec Card, a Top Up Visa Card that makes possible to spend Gleec Coin in more than 40 million terminals around the world, Gleec Pay, a licensed banking solution, GleecDEX, a decentralized storage and trading platform and several others.",
-    "categories": [
-      "smartChains",
-      "payment"
-    ],
+    "categories": ["smartChains", "payment"],
     "link": "https://gleec.com/",
     "image": {
       "name": "gleec",
@@ -362,10 +288,7 @@
   {
     "name": "CHIPS (CHIPS)",
     "description": "On the CHIPS blockchain, users play Pangea Poker - a decentralized, trustless poker game.",
-    "categories": [
-      "smartChains",
-      "gaming"
-    ],
+    "categories": ["smartChains", "gaming"],
     "link": "https://twitter.com/pangea_chips",
     "image": {
       "name": "chips",
@@ -376,9 +299,7 @@
   {
     "name": "NOWPayments",
     "description": "NOWPayments is a noncustodial crypto payments service that enables businesses to accept instant online payments in 50+ cryptocurrencies, now including OKB. The platform also supports automatic coin conversion, enabling merchants to accept any cryptocurrency of their choice and receive instant payment notifications when they do.",
-    "categories": [
-      "payment"
-    ],
+    "categories": ["payment"],
     "link": "https://nowpayments.io/",
     "image": {
       "name": "nowpayments",
@@ -389,9 +310,7 @@
   {
     "name": "Cryptocurrency Checkout",
     "description": "Cryptocurrency Checkout is a non-custodial payment gateway providing plugins that make accepting multiple cryptocurrencies for products and services as easy as entering your wallet addresses, and copying some code into your website or application.",
-    "categories": [
-      "payment"
-    ],
+    "categories": ["payment"],
     "link": "https://cryptocurrencycheckout.com/",
     "image": {
       "name": "cryptocurrency-checkout",
@@ -402,9 +321,7 @@
   {
     "name": "VerusID",
     "description": "The first self-sovereign, decentralized identities on the blockchain of its kind. A VerusID is a blockchain address that can hold funds and stake Verus. Future proof and packed with advanced capabilities. In this permissionless system anyone can create a VerusID and have complete ownership.",
-    "categories": [
-      "defi"
-    ],
+    "categories": ["defi"],
     "link": "https://verus.io/technology/verusID",
     "image": {
       "name": "verus",
@@ -415,9 +332,7 @@
   {
     "name": "Cryptwerk.com",
     "description": "To find a comprehensive list of merchants that accept KMD as payment, visit Cryptwerk.com.",
-    "categories": [
-      "merchants"
-    ],
+    "categories": ["merchants"],
     "link": "https://cryptwerk.com/pay-with/kmd/",
     "image": {
       "name": "cryptwerk",
@@ -428,11 +343,7 @@
   {
     "name": "Kriptomat",
     "description": "Kriptomat is a custodial service that enables users to buy, sell, and store Bitcoin, Ethereum, Shiba Inu, and 350+ cryptocurrencies. Users can purchase crypto instantly via credit card, bank account, and all major EUR payment methods.",
-    "categories": [
-      "exchange",
-      "fiat",
-      "wallet"
-    ],
+    "categories": ["exchange", "fiat", "wallet"],
     "link": "https://kriptomat.io/cryptocurrencies/komodo/how-to-buy-komodo/",
     "image": {
       "name": "kriptomat",
@@ -443,9 +354,7 @@
   {
     "name": "StealthEX",
     "description": "StealthEX is a user-friendly service providing instant & non-custodial cryptocurrency exchanges. It's free from registration and the platform does not store users' funds. 400+ cryptocurrencies are available for easy exchanges.",
-    "categories": [
-      "exchange"
-    ],
+    "categories": ["exchange"],
     "link": "https://stealthex.io/",
     "image": {
       "name": "stealthex",
