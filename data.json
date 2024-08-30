@@ -33,6 +33,45 @@
     }
   },
   {
+    "name": "FiroDEX",
+    "description": "FiroDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
+    "categories": [
+      "dex", "wallet"
+    ],
+    "link": "https://firo.org/",
+    "image": {
+      "name": "firo",
+      "width": "70",
+      "height": "70"
+    }
+  },
+  {
+    "name": "SmartDEX",
+    "description": "SmartDEX is a decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
+    "categories": [
+      "dex", "wallet"
+    ],
+    "link": "https://github.com/pbcllc/SmartDEX-Desktop",
+    "image": {
+      "name": "smartfi",
+      "width": "70",
+      "height": "70"
+    }
+  },
+  {
+    "name": "AtomicDEX Community Edition",
+    "description": "AtomicDEX CE is a community run decentralized exchange and non-custodial wallet rolled into one application created with Komodo AtomicDEX API.",
+    "categories": [
+      "dex", "wallet"
+    ],
+    "link": "https://komodian.org/",
+    "image": {
+      "name": "komodian",
+      "width": "70",
+      "height": "70"
+    }
+  },
+  {
     "name": "Binance",
     "description": "Binance is the world's leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume. Trusted by millions worldwide, the Binance platform is dedicated to increasing the freedom of money for users, and features an unmatched portfolio of crypto products and offerings, including: trading and finance, education, data and research, social good, investment and incubation, decentralization and infrastructure solutions, and more.",
     "categories": ["exchange"],
