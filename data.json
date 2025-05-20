@@ -361,5 +361,18 @@
       "width": "70",
       "height": "70"
     }
-  }
+  },
+  {
+    "name": "BitOK",
+    "description": "BitOK is a crypto portfolio tracker with AML and Tax perks. It enables users to (a) monitor all wallet activity including DeFi; (b) add private notes, files and tags to any transaction; (c) calculate taxes; (d) generate tax forms and other documents for banks/exchanges; (e) mitigate AML risks.",
+    "categories": ["explorer", "tools"],
+    "link": "https://bitok.org/",
+    "image": {
+      "name": "bitok",
+      "width": "70",
+      "height": "70"
+    }
+  },
+  
+  
 ]
